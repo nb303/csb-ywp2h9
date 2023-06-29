@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://nb303.github.io/csb-ywp2h9/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://nb303.github.io/csb-ywp2h9/static/js/main.0c4bbfc5.chunk.js",
-    "main.js.map": "https://nb303.github.io/csb-ywp2h9/static/js/main.0c4bbfc5.chunk.js.map",
+    "main.js": "https://nb303.github.io/csb-ywp2h9/static/js/main.9b08edba.chunk.js",
+    "main.js.map": "https://nb303.github.io/csb-ywp2h9/static/js/main.9b08edba.chunk.js.map",
     "runtime-main.js": "https://nb303.github.io/csb-ywp2h9/static/js/runtime-main.a63e597f.js",
     "runtime-main.js.map": "https://nb303.github.io/csb-ywp2h9/static/js/runtime-main.a63e597f.js.map",
     "static/css/2.80765319.chunk.css": "https://nb303.github.io/csb-ywp2h9/static/css/2.80765319.chunk.css",
@@ -14,13 +14,23 @@
     "static/js/2.17b9d2c2.chunk.js.LICENSE.txt": "https://nb303.github.io/csb-ywp2h9/static/js/2.17b9d2c2.chunk.js.LICENSE.txt",
     "static/media/rosie1.26a96369.JPG": "https://nb303.github.io/csb-ywp2h9/static/media/rosie1.26a96369.JPG",
     "static/media/rosie2.fd96f7a4.JPG": "https://nb303.github.io/csb-ywp2h9/static/media/rosie2.fd96f7a4.JPG",
-    "static/media/rosie3.3a5fd0b1.JPG": "https://nb303.github.io/csb-ywp2h9/static/media/rosie3.3a5fd0b1.JPG"
+    "static/media/rosie20.039722c0.JPG": "https://nb303.github.io/csb-ywp2h9/static/media/rosie20.039722c0.JPG",
+    "static/media/rosie21.fc001ae5.JPG": "https://nb303.github.io/csb-ywp2h9/static/media/rosie21.fc001ae5.JPG",
+    "static/media/rosie22.5c7f8ff0.JPG": "https://nb303.github.io/csb-ywp2h9/static/media/rosie22.5c7f8ff0.JPG",
+    "static/media/rosie23.a2d7ba40.JPG": "https://nb303.github.io/csb-ywp2h9/static/media/rosie23.a2d7ba40.JPG",
+    "static/media/rosie24.de2cd8ca.JPG": "https://nb303.github.io/csb-ywp2h9/static/media/rosie24.de2cd8ca.JPG",
+    "static/media/rosie3.3a5fd0b1.JPG": "https://nb303.github.io/csb-ywp2h9/static/media/rosie3.3a5fd0b1.JPG",
+    "static/media/rosie4.a87b8655.PNG": "https://nb303.github.io/csb-ywp2h9/static/media/rosie4.a87b8655.PNG",
+    "static/media/rosie5.60e25cda.JPG": "https://nb303.github.io/csb-ywp2h9/static/media/rosie5.60e25cda.JPG",
+    "static/media/rosie6.1a201534.JPG": "https://nb303.github.io/csb-ywp2h9/static/media/rosie6.1a201534.JPG",
+    "static/media/rosie7.080c8fe5.JPG": "https://nb303.github.io/csb-ywp2h9/static/media/rosie7.080c8fe5.JPG",
+    "static/media/rosiem.fdbb6756.JPG": "https://nb303.github.io/csb-ywp2h9/static/media/rosiem.fdbb6756.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.a63e597f.js",
     "static/css/2.80765319.chunk.css",
     "static/js/2.17b9d2c2.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.0c4bbfc5.chunk.js"
+    "static/js/main.9b08edba.chunk.js"
   ]
 }
